@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-Introducing MelodyMix: Your Ultimate Music Companion
+Introducing Musicly: Your Ultimate Music Companion
 
 Musicly is a sleek and intuitive music player app crafted with Flutter, designed to elevate your listening experience to new heights. With its seamless user interface and powerful features, Musicly offers music lovers a personalized and immersive journey through their favorite tunes.
 
